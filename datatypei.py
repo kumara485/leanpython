@@ -4,7 +4,7 @@
 #list,set,tuple,dict
 #byte,bytearray,range,
 
-
+#whole numbers.
 
 #int
 
